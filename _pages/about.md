@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Team
-permalink: /about/
+permalink: /team/
 ---
 
 ## Alessandro Principe, MD, PhD
